@@ -1,6 +1,6 @@
 ---
 title: "Proyecto Final"
-author: "Keyla Pereira y Jose Madriz"
+author: " Jose Madriz"
 date: "2025-08-15"
 output: html_document
 ---
